@@ -1,0 +1,48 @@
+.maxwidth{
+    width: 960px;
+    height: 900px;
+    background-color: #ddd;
+    margin: auto;
+    border: 5px solid #ddd;
+}
+img{
+    width: 100%;
+}
+.heading{
+    font-size: 40px;
+    text-align: center;
+    color: #3c40c6;
+    word-spacing: 4px;
+    letter-spacing: 2px;
+    text-shadow: 2px 1px black;
+}
+.subheading{
+    background-color: #eec16e;
+    color: #ffffff;
+    text-shadow: 3px 1px #faba4d;
+    text-align: center;
+    text-transform: uppercase;
+}
+.question{
+    text-decoration: underline;
+    color: #2376c8;
+    font-size: 30px;
+    word-spacing: 5px;
+    text-transform: capitalize;
+}
+.imtro{
+    text-align: center;
+    color: #808a97;
+}
+.name{
+    font-size: 25px;
+    text-align: right;
+    color: #2b3443;
+}
+.sign{
+    text-align: right;
+    font-size: 25px;
+    color: #fea713;
+    text-decoration: overline;
+    letter-spacing: 8px;
+}
